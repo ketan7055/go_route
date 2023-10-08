@@ -26,7 +26,7 @@ Go route Implementation
 
 <img src="https://github.com/ketan7055/go_route/assets/33648294/fe0563cb-dee9-488f-8c1e-bbd710d691d7.png" width="200" height="400" />  
 
-<img src="https://github.com/ketan7055/go_route/assets/33648294/9c426cad-72ca-4ee0-905b-5450da1bffb3.png" width="200" height="400" />  
+<img src="https://github.com/ketan7055/go_route/assets/33648294/9f9fc374-5563-4d3d-93a8-a2dfdd39d15a.png" width="200" height="400" />  
  
 
 
